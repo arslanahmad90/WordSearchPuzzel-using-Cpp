@@ -1,0 +1,5 @@
+1 ak47 130
+2 bhatti 110
+3 arslan 80
+4 hello 70
+5 arslan123 50
